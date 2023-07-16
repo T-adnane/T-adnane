@@ -17,9 +17,11 @@
 
 </br></br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T-adnane&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=T-adnane)  
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-adnane&show_icons=true" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com/?user=T-adnane" alt="Top Langs"/>
+</p>
 
 
 

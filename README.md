@@ -35,7 +35,6 @@
 
 <table align="center">
   <tr>
-    <td> <img src="https://komarev.com/ghpvc/?username=t-adnane&label=Profile%20views&color=0e75b6&style=flat" alt="t-adnane" /> </td>
     <td> 📫 How to reach me: </td>
     <td> touzouzadnane0@gmail.com </td>
     <td> <a href="https://github.com/T-adnane"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a></td>

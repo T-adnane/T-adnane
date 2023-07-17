@@ -27,8 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-adnane" alt="Top Langs"/>
-</p>
-<p align="center">
+  </br>
   <img src="https://metrics.lecoq.io/T-adnane" alt="GitHub metrics"/>
 </p>
 
